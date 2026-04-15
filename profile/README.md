@@ -1,12 +1,35 @@
-## Hi there 👋
+# KEDevO
 
-<!--
+Building high-performance software for modern data visualization.
 
-**Here are some ideas to get you started:**
+At **KEDevO**, we focus on developer-first products that combine clean architecture, strong performance, and practical usability.  
+Our work is centered on reliable tooling for teams that need responsive, real-time charting and scalable analytics experiences.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What We Build
+
+### Chartexa
+Our flagship open-source project, **Chartexa**, is a modular charting and visualization engine designed for demanding workloads.
+
+- High-performance rendering pipeline
+- Cross-platform architecture
+- Pluggable rendering backends
+- .NET and Python ecosystem support
+- Real-time and large-scale data visualization scenarios
+
+## Engineering Focus
+
+- **Performance by design** — architecture optimized for speed and responsiveness  
+- **Modularity** — layered systems that stay maintainable as products grow  
+- **Cross-platform reach** — tools that work across modern developer stacks  
+- **Open development** — transparent progress through public repositories
+
+## Explore KEDevO
+
+- Website: [kedevo.com](https://kedevo.com)
+- Chartexa: [github.com/KEDevO/Chartexa](https://github.com/KEDevO/Chartexa)
+- Chartexa Docs: [github.com/KEDevO/Chartexa.Docs](https://github.com/KEDevO/Chartexa.Docs)
+
+## Contributing
+
+We welcome contributors, testers, and feedback from the community.  
+If you want to collaborate, start with open issues and discussions in our repositories.
